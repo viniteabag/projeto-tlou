@@ -53,10 +53,11 @@ main:after{
 }
 
 .informacoes .descricao{
-    width: 49%;
+    width: 60%;
     font-size: 24px;
     color: #ffffff;
     line-height: 30px;
+    text-justify: auto;
 }
 
 .botoes-carrossel{
